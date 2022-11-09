@@ -448,6 +448,7 @@
     .list .contact:hover,
     .list .contact:focus {
     color: var(--accent-color);
+    
 }
     
     .list .link.maps {
